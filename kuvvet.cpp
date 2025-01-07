@@ -33,5 +33,5 @@ int main()
 
     cout << "Toplam Kuvvet: ";
     toplam.yazdir();
-
+    return 0;
 }
